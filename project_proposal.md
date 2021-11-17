@@ -8,7 +8,7 @@ I am going to use images with and without human to build a neural network model 
 
 #### Data Description:
 * Dataset: 
-  * I downloaded and mixed three datasets([1](https://www.kaggle.com/constantinwerner/human-detection-dataset)/[2](https://www.kaggle.com/jithinnambiarj/human-activity-detection-dataset)/[3](https://www.kaggle.com/siddhrath/human-or-thing-classifier)) of images for human recognition, one [dataset](https://www.kaggle.com/asdasdasasdas/garbage-classification) of images of waste, one [dataset](https://www.kaggle.com/nitishabharathi/scene-classification) of images of scene, and one [dataset](https://www.kaggle.com/alessiocorrado99/animals10) of images of animals.The final dataset contained 2925 images with human and 2925 images without human. 
+  * I downloaded and mixed three datasets on Kaggle. I used the images of control(images without human), standing and walking in [human activity dataset](https://www.kaggle.com/jithinnambiarj/human-activity-detection-dataset), images of things in [human or thing classifier dataset](https://www.kaggle.com/siddhrath/human-or-thing-classifier), and images of furniture in [furniture dataset](https://www.kaggle.com/lasaljaywardena/furniture-images-dataset) of images of waste, one .The final dataset contained 1024 images with human and 1024 images without human. 
  
 >* What dataset(s) do you plan to use, and how will you obtain the data?
 >* What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with?
