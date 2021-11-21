@@ -15,10 +15,10 @@ This is the sixth project of Metis Data Science Bootcamp. We are gong to use ima
 
 [Charts](images/)
 
+---> 
 ***
 
 [MVP](mvp.md)
----> 
 
 ***
 
