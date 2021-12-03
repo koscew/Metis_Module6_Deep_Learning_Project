@@ -35,7 +35,7 @@ I downloaded and mixed datasets of images on Kaggle. I used the images of three 
 Random Forest, Convolutional Neural Networks from scratch, Transfer Learning with MobileNetV2, VGG16 and InceptionV3 were used before settling on the Transfer Learning model with MobileNetV2 which had the best performance.
 
 Model/Architecture|Validation Accuracy
----:|---:|---:
+---:|---:
 Transfer Learning with MobileNetV2|0.9544
 Transfer Learning with VGG16|0.9173
 Random Forest|0.8053
